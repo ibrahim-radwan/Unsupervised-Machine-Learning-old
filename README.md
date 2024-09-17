@@ -1,5 +1,5 @@
 # Unsupervised Machine Learning
-![image](https://github.com/user-attachments/assets/f609c708-ee7d-451b-987b-e72f5165f2ba)
+![image](/images/cover.png)
 In this repository, the code snippets will be added for the activities and practices to gain skill on using unsupervised machine learning. This will include topics such as:
 - Clustering (KMeans, GMMs, DBSCAN, etc.)
 - Dimentionality Reduction (PCS, tSNE, etc.)
